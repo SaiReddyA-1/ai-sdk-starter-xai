@@ -2,7 +2,7 @@
 
 This project has been moved to a new repository. You can now find it here:
 
-👉 **[SaiReddy-xAI](https://github.com/SaiReddyA-1/SaiReddy-xAI)**
+👉 **[xAI-SaiReddy](https://github.com/SaiReddyA-1/xAI-SaiReddy)**
 
 ---
 
